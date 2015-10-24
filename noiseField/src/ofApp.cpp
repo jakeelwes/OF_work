@@ -35,7 +35,7 @@ void ofApp::setup(){
 
 void ofApp::update(){
     
-    t = ofGetFrameNum() * timeSpeed;
+    t = ofGetFrameNum() * timeSpeed;	
 }
 
 void ofApp::draw(){
